@@ -21,7 +21,7 @@ This activity involved setting up an Angular development environment, creating a
 ### **3. Modification of `app.component.ts`**
 - **Title Change:** Updated the `title` variable in `app.component.ts`.
   ![Title Change](screenshots/title-change.png)
-- **Added `message` Variable:** Included a new variable `message` containing my name, "Matt Kollar".
+- **Added `message` Variable:** Included a new variable `message` containing my name, "Matt".
   ![Message Variable Added](screenshots/message-variable-add.png)
 
 ### **4. Modification of `app.component.html`**
